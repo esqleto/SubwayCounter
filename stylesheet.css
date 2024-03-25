@@ -1,0 +1,52 @@
+body {
+    background-image: url(subway.jpeg);
+    background-size: cover;
+    height: 100vh;
+    
+}
+.whole {
+    background-color: rgba(248, 248, 255, 0.733);
+    font-family: 'Times New Roman', Times, serif;
+    max-width: 40%;
+    margin: auto;
+    outline: auto;
+    outline-color: rgba(220, 20, 60, 0.527);
+    outline-style: dotted;
+
+}
+
+.mainText {
+    margin-top: 10%;
+    text-align: center;
+    font-size: 30px;
+    
+    
+}
+
+button {
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    
+    
+}
+
+#butt {
+    text-align: center;
+}
+
+#increment {
+    background-color: crimson;
+    color: beige;
+}
+
+#save {
+    background-color: cadetblue;
+    color: beige;
+}
+
+#save-el {
+    font-size: large;
+    color: black;
+}
